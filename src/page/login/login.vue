@@ -10,7 +10,7 @@
                 <input type="passowrd" v-model="password">
             </li>
         </ul>
-        <button @click="login">登录</button>
+        <button @click="login">登录1111</button>
     </div>
 </template>
 
